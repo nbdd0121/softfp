@@ -1,5 +1,8 @@
 # softfp
 
+[![crates.io](https://img.shields.io/crates/v/softfp.svg)](https://crates.io/crates/softfp)
+[![docs.rs](https://docs.rs/softfp/badge.svg)](https://docs.rs/softfp)
+
 Software floating point operation library.
 
 Many floating operations require a rounding mode and can set a few exception flags.
